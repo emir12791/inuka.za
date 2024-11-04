@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inuka.za/static/css/main.dc511803.css",
+    "main.js": "/inuka.za/static/js/main.d24abd44.js",
+    "static/js/488.4912a297.chunk.js": "/inuka.za/static/js/488.4912a297.chunk.js",
+    "index.html": "/inuka.za/index.html",
+    "main.dc511803.css.map": "/inuka.za/static/css/main.dc511803.css.map",
+    "main.d24abd44.js.map": "/inuka.za/static/js/main.d24abd44.js.map",
+    "488.4912a297.chunk.js.map": "/inuka.za/static/js/488.4912a297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc511803.css",
+    "static/js/main.d24abd44.js"
+  ]
+}
